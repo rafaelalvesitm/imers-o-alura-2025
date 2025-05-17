@@ -5,10 +5,8 @@ O bot atua como um assistente inteligente, capaz de classificar as perguntas dos
 
 Veja o vídeo explicativo abaixo:
 
-[Uplo[InternetShortcut]
-URL=https://www.youtube.com/watch?v=WhtcNR-GD2U
-ading (1) Projeto Imersão IA Alura + Google 2025 - YouTube.url…]()
 
+[![Projeto Imersão Alura + Google 2025](https://img.youtube.com/vi/WhtcNR-GD2U/0.jpg)](https://www.youtube.com/watch?v=WhtcNR-GD2U)
 
 
 O projeto está disponível no Google Colab em https://colab.research.google.com/drive/1MPPa-HC3vDyyC5obq0VaE24wCiZJXlUv?usp=sharing
